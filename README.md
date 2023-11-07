@@ -1,3 +1,4 @@
 # sanjina
 This is my first Repository
-author sanjina-kumari
+<br>
+Author sanjina-kumari
